@@ -1,0 +1,309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/joan.claret/webs/js-boilerplate"
+	],
+	"file_history":
+	[
+		"/Users/joan.claret/webs/mt-prototype/src/_includes/components/general/mt-Icon.html",
+		"/Users/joan.claret/webs/mt-prototype/src/_includes/components/global/mt-SocialNetworks.html",
+		"/Users/joan.claret/webs/mt-prototype/src/_includes/components/general/mt-Button.html",
+		"/Users/joan.claret/webs/mt-prototype/src/news-detail.html",
+		"/Users/joan.claret/webs/mt-prototype/src/detail.html",
+		"/Users/joan.claret/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/joan.claret/webs/mt-prototype/src/_includes/components/global/mt-Modal.html",
+		"/Users/joan.claret/webs/mt-prototype/src/_layouts/global.html",
+		"/Users/joan.claret/webs/mt-prototype/dist/detail.html",
+		"/Users/joan.claret/webs/mt-prototype/src/grid2.html",
+		"/Users/joan.claret/webs/mt-prototype/dist/drive2/js/drive2.js",
+		"/Users/joan.claret/webs/mt-prototype/src/_includes/components/global/mt-Alert.html",
+		"/Users/joan.claret/webs/mt-prototype/src/_includes/components/general/mt-Tag.html",
+		"/Users/joan.claret/.zshrc",
+		"/Users/joan.claret/webs/mt-prototype/src/_includes/components/grid/mt-SerpFilters.html",
+		"/Users/joan.claret/webs/mt-prototype/src/_includes/components/grid/prot-ActiveFilters.html",
+		"/Users/joan.claret/webs/mt-prototype/src/index.html",
+		"/Users/joan.claret/webs/mt-prototype/.git/config",
+		"/Users/joan.claret/.ssh/id_rsa.pub",
+		"/Users/joan.claret/webs/boilerplate/_src/scss/main.scss",
+		"/Users/joan.claret/.bash_profile",
+		"/Users/joan.claret/webs/boilerplate/gulpfile.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 164.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" <a href=\"#\" title=\"#\">",
+			"icon",
+			"<img src=\"https://placeholdit.imgix.net/~text?txtsize=33&txt=Photo&w=150&h=150\" alt=\"#\">",
+			"<a href=\"#\">",
+			"Otras motorizaciones y acabados\n\n",
+			"paco",
+			"svg",
+			"mt-Grid-col--sm-7",
+			"ver fic",
+			"t-label",
+			"title=\"",
+			"mt-SocialNetworks-item",
+			"mt-SocialNetworks",
+			"mt-SocialNetworks-item",
+			"       {% include components",
+			"h2",
+			" mt-Figure--full",
+			"precio",
+			"mt-pagination.html",
+			"paginat",
+			"usera",
+			"white",
+			"nombre",
+			"row",
+			"--xs-6",
+			"mt-Button--small",
+			"mt-Button--small ",
+			"section",
+			"data-revealer",
+			"58.000€",
+			"AUDI TTS Coupe 2.0 TFSI 310CV quattro",
+			"mt-Grid-col--sm-3\"",
+			"-sm-4",
+			"row",
+			"xs-2",
+			"xxs-2 ",
+			"mt-Grid-col--sm-4",
+			"u-mb--medium ",
+			" class=\"u-mb-small\" %}",
+			"ng-20\" %}",
+			"mt-Grid-col--sm-4",
+			"strong",
+			"h4",
+			"mt-Button--icon",
+			"u-c--neutro",
+			"mt-Icon--small",
+			"../img/",
+			"mt-Button--primary",
+			"mt-Button mt-Button--primary mt-Button--icon",
+			"pg-",
+			"u-mr--medium",
+			"white",
+			"u-d--inlineBlock",
+			"<span class=\"mt-Tag-closeBtn\">\n              <svg class=\"mt-Tag-icon\">\n                <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/drive2/img/sprite/icons.svg#close\"></use>\n              </svg>\n            </span>",
+			"detail",
+			"mt-Carrousel",
+			"showTooltip(",
+			"mt-Alert",
+			"u-mb--small",
+			"<li>",
+			"li"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "js-boilerplate.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"seller",
+				"src/_includes/components/old-detail/mt-SellerContact.html"
+			],
+			[
+				"mt-icon.html",
+				"src/_includes/components/general/mt-Icon.html"
+			],
+			[
+				"mt-button.html",
+				"src/_includes/components/general/mt-Button.html"
+			],
+			[
+				"prot-relatednews",
+				"src/_includes/components/detail/prot-RelatedNews.html"
+			],
+			[
+				"mt-modal",
+				"src/_includes/components/global/mt-Modal.html"
+			],
+			[
+				"mt-carrousel--large",
+				"src/_includes/components/general/mt-Carrousel--large.html"
+			],
+			[
+				"mt-a",
+				"src/_includes/components/global/mt-Alert.html"
+			],
+			[
+				"mt-ico",
+				"src/_includes/components/general/mt-Icon.html"
+			],
+			[
+				"mt-tag.",
+				"src/_includes/components/general/mt-Tag.html"
+			],
+			[
+				"mt-serpfilters",
+				"src/_includes/components/grid/mt-SerpFilters.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/webs/mt-prototype/prototype.sublime-project"
+			],
+			[
+				"drive",
+				"~/webs/drive.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

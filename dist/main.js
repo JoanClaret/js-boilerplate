@@ -6,6 +6,8 @@ makeCowSound({
 	sound: 'mooo'
 });
 
+var hola = 'hola';
+
 function makeCowSound(_ref) {
 	var animal = _ref.animal;
 	var sound = _ref.sound;

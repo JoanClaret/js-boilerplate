@@ -2,4 +2,4 @@
 - Babel (transform ES6 into ES5)
 - eslint (install globally `babel-eslint`)
 - onchange (watch files)
-- mochajs (pending development)
+- mochajs (test js)

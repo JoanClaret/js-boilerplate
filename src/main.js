@@ -5,8 +5,6 @@ makeCowSound({
 	sound: 'mooo'
 });
 
-var hola = 'hola';
-
 function makeCowSound({animal, sound}){
   console.log('The ' + animal + ' says ' + sound + '!' );
 }
